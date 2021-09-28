@@ -23,7 +23,7 @@ def equalTo(x, y):
 
 #create greaterOrEqual(x, y)
 def greaterOrEqual(x, y):
-    if x <= y:
+    if x >= y:
         return True
     else:
         return False
